@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/hana/AscendProjects/objectdetection/build/cmake/src",
+  "command": "/usr/bin/c++  -DENABLE_DVPP_INTERFACE -I/home/hana/ascend_ddk/x86/include -I/home/hana/ascend_ddk/x86/include/opencv4 -I/home/hana/Ascend/ascend-toolkit/20.0.RC1/acllib_centos7.6.aarch64/acllib/include -I/home/hana/AscendProjects/objectdetection/src/../inc    -std=c++11 -o CMakeFiles/main.dir/utils.cpp.o -c /home/hana/AscendProjects/objectdetection/src/utils.cpp",
+  "file": "/home/hana/AscendProjects/objectdetection/src/utils.cpp"
+},
+{
+  "directory": "/home/hana/AscendProjects/objectdetection/build/cmake/src",
+  "command": "/usr/bin/c++  -DENABLE_DVPP_INTERFACE -I/home/hana/ascend_ddk/x86/include -I/home/hana/ascend_ddk/x86/include/opencv4 -I/home/hana/Ascend/ascend-toolkit/20.0.RC1/acllib_centos7.6.aarch64/acllib/include -I/home/hana/AscendProjects/objectdetection/src/../inc    -std=c++11 -o CMakeFiles/main.dir/model_process.cpp.o -c /home/hana/AscendProjects/objectdetection/src/model_process.cpp",
+  "file": "/home/hana/AscendProjects/objectdetection/src/model_process.cpp"
+},
+{
+  "directory": "/home/hana/AscendProjects/objectdetection/build/cmake/src",
+  "command": "/usr/bin/c++  -DENABLE_DVPP_INTERFACE -I/home/hana/ascend_ddk/x86/include -I/home/hana/ascend_ddk/x86/include/opencv4 -I/home/hana/Ascend/ascend-toolkit/20.0.RC1/acllib_centos7.6.aarch64/acllib/include -I/home/hana/AscendProjects/objectdetection/src/../inc    -std=c++11 -o CMakeFiles/main.dir/object_detect.cpp.o -c /home/hana/AscendProjects/objectdetection/src/object_detect.cpp",
+  "file": "/home/hana/AscendProjects/objectdetection/src/object_detect.cpp"
+},
+{
+  "directory": "/home/hana/AscendProjects/objectdetection/build/cmake/src",
+  "command": "/usr/bin/c++  -DENABLE_DVPP_INTERFACE -I/home/hana/ascend_ddk/x86/include -I/home/hana/ascend_ddk/x86/include/opencv4 -I/home/hana/Ascend/ascend-toolkit/20.0.RC1/acllib_centos7.6.aarch64/acllib/include -I/home/hana/AscendProjects/objectdetection/src/../inc    -std=c++11 -o CMakeFiles/main.dir/main.cpp.o -c /home/hana/AscendProjects/objectdetection/src/main.cpp",
+  "file": "/home/hana/AscendProjects/objectdetection/src/main.cpp"
+}
+]
